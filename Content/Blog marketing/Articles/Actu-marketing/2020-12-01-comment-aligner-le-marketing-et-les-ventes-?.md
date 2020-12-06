@@ -4,13 +4,13 @@ date : 2020-12-01
 author : "Amelie"
 
 categories : ["Articles"]
-tags : ["Artcile", "marketing", "actualité"]
+tags : ["Article", "marketing", "actualité"]
 
 durée de lecture : "1 min"
 
 ---
 
-! [illustartion article] (/Users/ameliedieppois/Documents/GitHub/le_petit_marketeur/img/photo-1542744173-05336fcc7ad4.jpeg "illustartion")
+! [illustartion article] (img/photo-1542744173-05336fcc7ad4.jpeg "illustartion")
 
 # Comment aligner le marketing et les ventes ?
 
