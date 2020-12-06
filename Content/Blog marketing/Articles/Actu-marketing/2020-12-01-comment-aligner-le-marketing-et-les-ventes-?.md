@@ -10,7 +10,7 @@ durée de lecture : "1 min"
 
 ---
 
-! [illustartion article] (img/photo-1542744173-05336fcc7ad4.jpeg "illustartion")
+! [illustartion article 2020-12-01] (img/photo-1542744173-05336fcc7ad4.jpeg "illustartion")
 
 # Comment aligner le marketing et les ventes ?
 
