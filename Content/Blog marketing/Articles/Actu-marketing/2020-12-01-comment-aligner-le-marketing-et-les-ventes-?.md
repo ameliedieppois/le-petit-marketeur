@@ -1,6 +1,6 @@
 ---
 title : "comment aligner le marketing et les ventes ?"
-date : 2010-12-01
+date : 2020-12-01
 author : "Amelie"
 
 categories : ["Articles"]

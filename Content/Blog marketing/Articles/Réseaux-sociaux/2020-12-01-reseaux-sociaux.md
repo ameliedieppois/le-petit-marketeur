@@ -1,5 +1,10 @@
 ---
 title : "Réseaux Sociaux"
-date : 2010-12-01
+date : 2020-12-01
 author : "Amelie"
+
+categories : ["Articles"]
+tags : ["Artcile", "marketing", "reseaux sociaux"]
+
+durée de lecture : "1 min"
 ---

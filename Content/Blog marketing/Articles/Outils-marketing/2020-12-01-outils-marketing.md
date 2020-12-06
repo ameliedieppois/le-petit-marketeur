@@ -1,5 +1,10 @@
 ---
 title : "outils-marketing"
-date : 2010-12-01
+date : 2020-12-01
 author : "Amelie"
+
+categories : ["Articles"]
+tags : ["Artcile", "marketing", "outils"]
+
+durée de lecture : "5 min"
 ---
